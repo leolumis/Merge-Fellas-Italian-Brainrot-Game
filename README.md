@@ -2,7 +2,7 @@
 
 ![Merge Fellas](public/mergefellasgame.webp)
 
-## 🇮🇹 The Ultimate Italian Brainrot Merging Experience
+## The Ultimate Italian Brainrot Merging Experience
 
 Merge Fellas brings the viral TikTok meme sensation to your browser! Combine iconic characters like Tung Tung Tung Sahur, Brr Brr Patapim and Espressona Signora into ever-evolving forms in this addictive merge puzzle game.
 
