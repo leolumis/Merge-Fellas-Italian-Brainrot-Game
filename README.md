@@ -19,7 +19,7 @@ Merge Fellas brings the viral TikTok meme sensation to your browser! Combine ico
 
 ## 📋 Update Log & Available Editions
 
-- **2025-05-09**: Initial release of **[Merge Fellas Italian Brainrot](https://mergefellasgame.com/merge-fellas)** 🏆
+- **2025-05-09**: Initial release of **[Merge Fellas Italian Brainrot](https://mergefellasgame.com/)** 🏆
   - The original sensation featuring iconic characters like Tung Tung Tung Sahur and Tralalero Tralala
   - Master the basics of brainrot merging in this first edition that started it all
   - Global leaderboard system integrated from launch
